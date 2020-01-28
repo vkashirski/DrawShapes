@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Circle.cs" />
-    <Compile Include="CirclesList.cs" />
+    <Compile Include="ShapesList.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
